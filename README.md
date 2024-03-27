@@ -39,8 +39,6 @@ Stastical_Model.
 
 ## Requirements
 
-## Requirements
-
 - pandas
 - numpy
 - scikit-learn
