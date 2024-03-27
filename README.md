@@ -1,9 +1,8 @@
 # Emotion-Classification
-# Project Name
 
 This repository contains the code and resources for the project.
 
-## Project Structure
+## Project Folder Structure
 
 The project is organized as follows:
 
