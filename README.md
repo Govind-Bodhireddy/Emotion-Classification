@@ -31,19 +31,19 @@ The models folder contains pre-trained models. You can use these models for infe
 
 ![Deep Learning Model ](https://github.com/Govind-Bodhireddy/Emotion-Classification/blob/main/Results/Deep_learning_model_confusion_matrix.jpeg.png)
 
-Description of result 1.
+Deep Learning Model.
 
 ![Stastical_Model](https://github.com/Govind-Bodhireddy/Emotion-Classification/blob/main/Results/stastical_model_confusion_matriix.png)
 
-Description of result 2.
+Stastical_Model.
 
 ## Requirements
 
-- Python 3.x
-- Jupyter Notebook
-- PyTorch
-- Other dependencies as specified in the notebooks
+## Requirements
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
+- pandas
+- numpy
+- scikit-learn
+- matplotlib
+- torch
+- torchvision
